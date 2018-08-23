@@ -1,0 +1,19 @@
+{
+  "name": "tashinajacobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "nodemon -L index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TashinaJacobs/userNamePasword.git"
+  },
+  "author": "Tashina Jacobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TashinaJacobs/userNamePasword/issues"
+  },
+  "homepage": "https://github.com/TashinaJacobs/userNamePasword#readme"
+}
